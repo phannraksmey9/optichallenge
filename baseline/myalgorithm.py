@@ -1,3 +1,6 @@
+# myalgorithm.py
+# This is a template for the custom algorithm.
+
 from __future__ import annotations
 
 import math
